@@ -12,6 +12,8 @@ Stock Tools Python Codebase Rev 1.0
 
 ![MSFT_Plot_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/fd44bd50-52a4-482d-a9d4-f9085f11a124)
 
+![SPY_Barchart_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/3e2cf368-bd28-415b-bcf2-88488ce8ab56)
+
 
 ## **Technologies Used:**
 - SQLite was used for creating the project database
