@@ -8,7 +8,7 @@ Stock Tools Python Codebase Rev 1.0
 ## **Sample Plots:**
 ![MSFT_Plot_Volume](https://github.com/jaketimm/Stock_Analyzer/assets/154553278/a749cc8f-1217-4414-90b2-9b49d5167d82)
 
-![MSFT_Plot_Open_Close_Var](https://github.com/jaketimm/Stock_Analyzer/assets/154553278/d6e2af1b-d286-4a30-97f0-2ad4222d06a7)
+![MSFT_Plot_Open_Close_Var](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/fbb3e64a-98dd-45f5-a2ad-f227d13d245d)
 
 ![MSFT_Plot_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/fd44bd50-52a4-482d-a9d4-f9085f11a124)
 
