@@ -10,9 +10,11 @@ Stock Tools Python Codebase Rev 1.0
 
 ![SPY_Barchart_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/3e2cf368-bd28-415b-bcf2-88488ce8ab56)
 
-![MSFT_Plot_Open_Close_Var](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/fbb3e64a-98dd-45f5-a2ad-f227d13d245d)
+![MSFT_Plot_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/2f4b0d57-0c6b-43aa-b15c-5bc346450bb5)
 
-![MSFT_Plot_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/fd44bd50-52a4-482d-a9d4-f9085f11a124)
+![GOOG_Plot_Open_Close_Var](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/9bbf9554-3b1c-43c7-b749-a45ddddaa893)
+
+
 
 
 ## **Technologies Used:**
