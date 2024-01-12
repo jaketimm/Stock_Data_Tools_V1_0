@@ -8,11 +8,11 @@ Stock Tools Python Codebase Rev 1.0
 ## **Sample Plots:**
 ![MSFT_Plot_Volume](https://github.com/jaketimm/Stock_Analyzer/assets/154553278/a749cc8f-1217-4414-90b2-9b49d5167d82)
 
+![SPY_Barchart_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/3e2cf368-bd28-415b-bcf2-88488ce8ab56)
+
 ![MSFT_Plot_Open_Close_Var](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/fbb3e64a-98dd-45f5-a2ad-f227d13d245d)
 
 ![MSFT_Plot_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/fd44bd50-52a4-482d-a9d4-f9085f11a124)
-
-![SPY_Barchart_Overnight_Intraday](https://github.com/jaketimm/Stock_Data_Tools_V1_0/assets/154553278/3e2cf368-bd28-415b-bcf2-88488ce8ab56)
 
 
 ## **Technologies Used:**
@@ -21,4 +21,5 @@ Stock Tools Python Codebase Rev 1.0
 - The pandas package is used for storing trading data and import/export from the SQL database
 - The sqlite3 package is used for creating a database connection engine and cursor
 - The matplotlib package is used for all figure creation
+- The numpy package was used for barchart axis creation
 
